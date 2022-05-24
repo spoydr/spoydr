@@ -1,6 +1,6 @@
 Hi, I’m @spoydr, or Tiede, frontend developer and cofounder of Studio Foyne.
 
-Reach out to me
+Reach out to me here:
 - 📧 through email:  tiede@studiofoyne.com
 - 🐦 @twitter: [https://twitter.com/tiede](https://twitter.com/tiede)
 - 👨🏼‍💼 on [LinkedIn](https://www.linkedin.com/in/tiede-bart-90773a10a/)
